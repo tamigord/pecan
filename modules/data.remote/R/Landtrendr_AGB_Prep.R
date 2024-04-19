@@ -9,8 +9,7 @@ output: html_document
 #' @param country String value to determine depth of bounding box 
 #' @param start_date String value to determine start date of data sequestration  
 #' @param end_date String value to determine end date of data sequestration 
-#' @param site_info Bety list of file names with the h5 extension
-#' @param focus_sites Bety list of file names with the zip extension within GEDI4R package 
+#' @param site_info Bety list of file names with the h5 extension within GEDI4R package 
 #' @param export_csv Decide if we want to export the CSV file.
 #'Suggests: rmarkdown, knitr, testthat (>= 3.0.0), GEDI4R, magrittr
 #' @export
